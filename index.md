@@ -5,7 +5,7 @@ layout: default
 
 # A very brief introduction to survival analysis!
 
-{% include figure.html file="sa.png" alt="intro image here" width="75%" %}
+{% include figure.html file="sa.jpg" alt="intro image here" width="75%" %}
 
 > Hosted by [Centre for the Business and Economics of Health, Faculty of Business, Economics, and Law, The University of Queensland](https://cbeh.centre.uq.edu.au), {{ site.pub_year }}.
 
