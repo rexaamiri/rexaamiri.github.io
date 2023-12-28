@@ -1,3 +1,6 @@
+# Intro
+
+
 # workshop-template-b
 
 `workshop-template-b` is a Jekyll template for a simple workshop website, with a [Bootstrap](https://getbootstrap.com/)-based theme, designed for hosting on [GitHub Pages](https://pages.github.com/).
