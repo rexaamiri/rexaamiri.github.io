@@ -3,17 +3,15 @@ title: Home
 layout: default
 ---
 
-# Bootstrap Workshop Template!
+# A very brief introduction to survival analysis!
 
-{% include figure.html file="College_of_Education_University_of_Idaho_Workshop_scene_2273.jpg" alt="intro image here" width="75%" %}
+{% include figure.html file="sa.png" alt="intro image here" width="75%" %}
 
-> Hosted by [University of Idaho Library](http://www.lib.uidaho.edu/), {{ site.pub_year }}.
+> Hosted by [Centre for the Business and Economics of Health, Faculty of Business, Economics, and Law, The University of Queensland](https://cbeh.centre.uq.edu.au), {{ site.pub_year }}.
 
-Write a workshop abstract here.
+In this session, I will briefly cover the contents described in NICE's DSU Technical Support Document 14.
 
-Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
-Host it for free on GitHub with gh-pages, and share!
-Fun!
+It will be a fun session! I mean really fun; let's find out the survival rate at the end of the session. It's really fun... sigh...
 
 {% include toc.html %}
 
