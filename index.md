@@ -3,9 +3,9 @@ title: Home
 layout: page
 ---
 
-# Bootstrap Workshop Template!
+# A brief introduction to survival analysis 
 
-{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
+{% include figure.html img="sa.jpg" alt="intro image here" caption="Kaplan-Meier curve" width="75%" %}
 
 A minimal Jekyll theme with Bootstrap for creating workshop websites.
 
