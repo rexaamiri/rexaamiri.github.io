@@ -1,33 +1,25 @@
-# Jekyll workshop-template evanwill
-# https://github.com/evanwill/workshop-template
-# based on minima theme https://github.com/jekyll/minima
-
-# Notes: 
-# - pages with "nav: true" in front matter will be in header nav
-# - figure include for centered images, put file in images directory and use: {% include figure.html file="my-cat.jpg" alt="cat" caption="My cat" width="50%" %}
-
 # Site settings
-title: workshop-template
+title: Introduction to survival analysis
 # description and keywords for meta tags
-description: "Create a workshop website quick and easy!"
-keywords: "workshops, websites, gh-pages, jekyll"
+description: "A very brief workshop on NICE DSU TSDs on survival analysis!"
+keywords: "workshops, survival-analysis"
 
 # author settings for cc-by
-author: evan will
-pub_year: 2018
-github_username: evanwill
-twitter_username: EvanPeterWill
+author: Mohamamdreza Amiri
+pub_year: 2024
+github_username: rexaamiri
+twitter_username: rexaamiri
 
 # add the full url for the github repository
-repo: "https://github.com/evanwill/workshop-template-b"
+repo: "https://github.com/rexaamiri/rexaamiri.github.io"
 
 # site urls
 # add the url for the domain,
 # on gh-pages: https://username.github.io 
-url: https://evanwill.github.io
+url: https://rexaamiri.github.io
 # add subsection of the domain,
 # on gh-pages this is the name of the repository
-baseurl: /workshop-template-b
+baseurl: /content/0-prep.html
 
 # add search box to top nav
 search: true
