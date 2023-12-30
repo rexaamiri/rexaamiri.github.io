@@ -7,9 +7,9 @@ layout: page
 
 {% include figure.html img="cbeh.jpg" alt="intro image here" caption="Centre for the Business and Economics of Health" width="75%" %}
 
-*Workshop series*
+*Workshop series:*
 
-*Survival analysis* [here](https://github.com/rexaamiri/cbeh).
+- *Survival analysis* [here](https://github.com/rexaamiri/cbeh).
 
 {% include toc.html %}
 
