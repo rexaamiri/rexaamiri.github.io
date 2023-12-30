@@ -10,9 +10,3 @@ layout: page
 *Workshop series:*
 
 - [Survival analysis](https://github.com/rexaamiri/cbeh)
-
-{% include toc.html %}
-
-------
-
-{% include template/credits.html %}
