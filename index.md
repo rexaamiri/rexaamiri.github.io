@@ -3,7 +3,7 @@ title: Home
 layout: page
 ---
 
-# Centre for the Business and Economics of Health (CBEH) 
+# Efficient and Effective Healthcare Team Development Day
 
 {% include figure.html img="cbeh.jpg" alt="intro image here" caption="" width="75%" %}
 
