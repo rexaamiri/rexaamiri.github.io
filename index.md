@@ -3,9 +3,9 @@ title: Home
 layout: page
 ---
 
-# Efficient and Effective Healthcare Team Development Day
-
 {% include figure.html img="cbeh.jpg" alt="intro image here" caption="" width="75%" %}
+
+# Efficient and Effective Healthcare Team Development Day
 
 *Workshop series:*
 
