@@ -9,4 +9,4 @@ layout: page
 
 *Workshop series:*
 
-- [Survival analysis](https://rexaamiri.github.io/cbeh)
+- [Survival analysis (2024-01-19)](https://rexaamiri.github.io/cbeh)
