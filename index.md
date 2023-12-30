@@ -3,9 +3,9 @@ title: Home
 layout: page
 ---
 
-# A brief introduction to survival analysis 
+# Centre for the Business and Economics of Health (CBEH) 
 
-{% include figure.html img="cbeh.jpg" alt="intro image here" caption="Centre for the Business and Economics of Health" width="75%" %}
+{% include figure.html img="cbeh.jpg" alt="intro image here" caption="" width="75%" %}
 
 *Workshop series:*
 
