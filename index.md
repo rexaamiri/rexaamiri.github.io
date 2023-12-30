@@ -5,17 +5,11 @@ layout: page
 
 # A brief introduction to survival analysis 
 
-{% include figure.html img="sa.jpg" alt="intro image here" caption="Kaplan-Meier curve" width="75%" %}
+{% include figure.html img="cbeh.jpg" alt="intro image here" caption="Centre for the Business and Economics of Health" width="75%" %}
 
-A minimal Jekyll theme with Bootstrap for creating workshop websites.
+*Workshop series*
 
-*Add your workshop abstract here!*
-
-Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
-Host it for free on GitHub with gh-pages, and share!
-Fun!
-
-*See also:* [workshop-template](https://evanwill.github.io/workshop-template/), original minimal version.
+*Survival analysis* [here](https://github.com/rexaamiri/cbeh).
 
 {% include toc.html %}
 
